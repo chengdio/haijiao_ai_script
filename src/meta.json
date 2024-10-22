@@ -1,0 +1,12 @@
+{
+  "@include": [],
+  "@run-at": "document-end",
+  "@match": [
+    "https://haijiao.com/*",
+    "https://haijiao.ai/topic/*",
+    "https://hjai.cc/*",
+    "https://*/topic/*"
+  ],
+  "@homepage": "https://github.com/sex2048/haijiao_ai_script#readme",
+  "@supportURL": "https://github.com/sex2048/haijiao_ai_script/issues"
+}
