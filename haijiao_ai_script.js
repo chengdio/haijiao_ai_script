@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @name           haijiao-ai-script
-// @namespace      haijiao-ai-script
-// @version        0.0.1
+// @name           海角社区免登录解锁vip
+// @namespace      海角社区免登录解锁vip
+// @version        0.0.2
 // @author         forgetme8
 // @description    破解 海角社区破解版(https://haijiao.ai) VIP,免登录观看视频, TG频道:@svip_nav.本插件完全免费,请注意甄别,避免上当受骗.
 // @run-at         document-end
