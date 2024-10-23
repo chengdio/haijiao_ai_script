@@ -1,6 +1,6 @@
 
 // ==UserScript==
-// @name           海角社区免登录解锁vip
+// @name           海角社区
 // @namespace      海角社区免登录解锁vip
 // @version        0.0.2
 // @author         forgetme8

@@ -1,4 +1,4 @@
-# 海角社区破解版 (https://haijiao.ai) - 免登录观看VIP视频
+# 海角社区破解版 (haijiao.ai) - 免登录观看VIP视频
 
 `注意,该脚本是针对(https://haijiao.ai)网站的破解脚本,不适用于haijiao.com,仅供学习交流使用.`
 
