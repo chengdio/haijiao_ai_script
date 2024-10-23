@@ -13,6 +13,7 @@
 // @require        https://cdn.jsdelivr.net/npm/hls.js@1
 // @homepage       https://github.com/sex2048/haijiao_ai_script#readme
 // @supportURL     https://github.com/sex2048/haijiao_ai_script/issues
+// @license        MIT
 // ==/UserScript==
 (function () {
   'use strict';
